@@ -1,0 +1,16 @@
+.Mathcontainerparent{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+}
+
+
+.Mathcontainerdiv{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    padding: 10px;
+}
